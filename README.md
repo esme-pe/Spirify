@@ -2,5 +2,5 @@
 
 **Integrantes del Proyecto**
 - Esmeralda Lopez
-- Luis Estrellas
+- Luis Estrella
 - Juan Gamboa
