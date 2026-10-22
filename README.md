@@ -6,4 +6,4 @@
 - Juan Gamboa
 
 # Docente:
-- Ubaldo Narvaez Montoya
+- Ubaldo-chan Narvaez Montoya
