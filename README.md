@@ -3,7 +3,7 @@
 **Integrantes del Proyecto**
 - Esmeralda Lopez
 - Luis Estrella
-- Juan Gamboa
+- Juan Gamboa <-----Colaboré
 
 # Docente:
 - Ubaldo Narvaez Montoya
